@@ -1,11 +1,11 @@
-JavaScript React Base Demo (Latest)
-===================================
+JavaScript React Change Props Demo
+==================================
 
-Always update with latest versions and technologies.
+在React中，如果从外面改变了将要作为"props"传给component的值，component也会跟着变。
 
 ```
 npm install
-npm run dev
+npm run demo
 ```
 
-Then visit <http://localhost:8080/>.
+![demo](./images/demo.jpg)
